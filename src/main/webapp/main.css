@@ -1,0 +1,21 @@
+
+body{
+    font-size: 36px; 
+    background: blanchedalmond;
+}
+p{
+    font-weight: bold; 
+    font-size: 18px; 
+} 
+
+p#primo{
+    background: deeppink;
+}
+
+/*classe di stile titolo*/
+.titolo{
+    font-weight: bold; 
+    font-size: 18px; 
+    font-style: oblique;
+    color: red;
+}
